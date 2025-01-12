@@ -1,0 +1,11 @@
+{
+  "name": "vogue-fantsy-backend",
+  "version": "1.0.0",
+  "description": "Whole Backend Code for Vogue Fantasy Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manohar & Reshma",
+  "license": "MIT"
+}
